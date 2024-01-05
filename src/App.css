@@ -7,11 +7,26 @@
 
 .App .header {
   width: 100%;
-  height: 60px;
-  padding: 8px 8px 8px 16px;
+  height: 68px;
+  padding: 14px 8px 8px 30px;
   box-sizing: border-box;
-  background: #00a5e4;
-  font-size: 1.2em;
+  font-size: 1.4em;
   line-height: 44px;
   color: white;
+  background-color: #000;
 }
+.App .home-h1 {
+  text-align: center;
+  padding-top: 6%;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: 'circular';
+}
+.App .app-container input{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20%;
+}
+
+
